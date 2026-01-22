@@ -116,9 +116,23 @@ This project simulates real-world SOC alert monitoring and incident handling, de
 
 
 
+
+
+ File Access Notes
+
+- The `Screenshots/` folder contains all Splunk screenshots for failed logins, suspicious IPs, and malware alerts.
+- Screen recordings of dashboard activity are provided in `.mp4` format; please download to view.
+- The `Alert_Classification_Log/` Excel file and `Incident_Report/` Word document contain detailed analysis; download these files for full review.
+- Large Word documents may not preview in GitHub; download to open them properly.
+
+  
+
+
+
 &nbsp;Author
 
 ONONOGBU DANIELLA IHEOMA
 
 Cybersecurity Intern – Future Intern
+
 
